@@ -1,0 +1,18 @@
+.ima{
+	width: 170px;
+	height: 162.5px;
+	position: relative;
+	
+}
+
+ul li{
+	list-style: none;
+	display: inline;
+}
+#bgp{
+	margin:0;
+    padding:0;
+    background:center center fixed no-repeat;
+    -moz-background-size: cover;
+    background-size: cover;
+}
